@@ -1,3 +1,5 @@
 # Task2
 
-Second task, includes caching using CoreData, NSCache and pagination.
+Second task, includes:
+1 - Caching using CoreData and NSCache.
+2 - Pagination.
